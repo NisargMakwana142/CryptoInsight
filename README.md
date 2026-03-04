@@ -164,7 +164,7 @@ GET /api/coins/solana/0xDEF456.../chart
 
 ## 🔗 Data Source
 
-All market data is sourced from the [DexScreener public API](https://docs.dexscreener.com/) — no API key required.
+All market data is sourced from the [DexScreener public API](https://docs.dexscreener.com/api/reference) - no API key required.
 
 ---
 
